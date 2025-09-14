@@ -1,5 +1,4 @@
 import { Module } from '@nestjs/common';
-import { AdminModule } from '@adminjs/nestjs';
 import { ConfigModule } from '@nestjs/config';
 import { SequelizeModule } from '@nestjs/sequelize';
 
