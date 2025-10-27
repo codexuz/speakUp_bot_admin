@@ -207,7 +207,7 @@ export class GrammyjsService implements OnModuleInit {
       first_name: name,
       last_name: '',
       phone: normalizedPhone,
-      balance: 0,
+      balance: 10000,
       avatar_url: "https://avatar.iran.liara.run/public",
       password_hash: '', // Use proper password handling in production
       is_active: true,
